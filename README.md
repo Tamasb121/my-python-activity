@@ -1,1 +1,3 @@
-# my_python_activity
+# my-python-activity
+
+PYTHON PRACTICE NOTEBOOKS
